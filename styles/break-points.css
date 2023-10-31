@@ -1,10 +1,4 @@
 @media screen and (min-width: 600px) {
-    #container > header > .ident{
-        flex-direction: row;
-        align-items: center;
-        gap: 12px;
-    }
-
     #container > header > .ident > a{
         height: 96px;
         width: 96px;
